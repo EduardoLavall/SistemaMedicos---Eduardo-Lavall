@@ -1,0 +1,26 @@
+# Build Maven / Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentacao da prova
+agents.md
+GUIA_IMPLEMENTACAO.md
+TODO.md
